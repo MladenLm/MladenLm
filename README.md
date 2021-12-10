@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mladen</h1>
 
-<p align="center"><img src="images/hello-transparent.png"></p>
-
 <h3 align="center">I help companies design and deliver digital products.</h3>
 
 - `Who am I` A web developer with passion for emerging blockchain technologies
