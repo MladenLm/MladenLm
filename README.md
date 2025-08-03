@@ -1,15 +1,13 @@
 
-<h1 align="center">Hi, I'm Mladen</h1>
+<h1 align="center">Just M</h1>
 
-<h3 align="center">Learning programming and specializing in Plutus</h3>
+<h3 align="center">Taking daily lessons in business</h3>
 
-- `Who am I` A web developer with passion for emerging blockchain technologies
+- `Who am I` Running a stake pool on Cardano and working on No.Witness Labs
 
-- `Where am I` Zagreb, Croatia
+- `Where am I` Croatia
 
-- `uptime` 33 years
-
-- `ps -a` Learning Haskell / Plutus / Smart Contracts development
+- `uptime` 38 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
